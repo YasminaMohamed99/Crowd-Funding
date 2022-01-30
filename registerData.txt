@@ -1,0 +1,6 @@
+First_Name|Last_Name|Email|Password|Confirm_Password|Phone        
+yasmina|mohamed|y@info.com|yasmina123|yasmina123|01156684697
+ahmed|mohamed|a@info.com|ahmed123|ahmed123|01056697458
+salma|mohamed|s@info.com|salma123|salma123|01589764582
+yasmina|mohamed|yas@gmail.com|yas20399|yas20399|01165587498
+mahmoud|mohamed|mahmoud@ino.com|mah12896|mah12896|01165587598
